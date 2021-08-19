@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou Rafael Marinho
+- 👀 Estou interessado em aprender novas tecnologias
+- 🌱 Atualmente estou aprendendo: HTML, CSS, PHP, Java, Spring Framework
